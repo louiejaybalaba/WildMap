@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <Button
+        android:id="@+id/editButton"
+        android:layout_width="30dp"
+        android:layout_height="22dp"
+        android:layout_alignTop="@+id/deleteButton"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="46dp"
+        android:layout_marginRight="46dp"
+        android:background="#FF5722"
+        android:text="E"
+        android:textSize="9sp" />
+
+    <TextView
+        android:id="@+id/subjectNumberTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-1dp"
+        android:layout_marginLeft="-1dp"
+        android:layout_marginTop="30dp"
+        android:text="SubjNo"
+        android:textColor="#800000"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/subjectNameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-1dp"
+        android:layout_marginLeft="-1dp"
+        android:layout_marginTop="70dp"
+        android:maxLines="2"
+        android:text="Subject Name"
+        android:textColor="#800000"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/subjectSchedule1TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/subjectRoom1TextView"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_toStartOf="@+id/subjectRoom1TextView"
+        android:layout_toLeftOf="@+id/subjectRoom1TextView"
+        android:text="Schedule1"
+        android:textColor="#800000"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/subjectSchedule2TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/subjectRoom2TextView"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_toStartOf="@+id/subjectRoom1TextView"
+        android:layout_toLeftOf="@+id/subjectRoom1TextView"
+        android:text="Schedule2"
+        android:textColor="#800000"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/subjectRoom2TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/subjectRoom1TextView"
+        android:layout_alignEnd="@+id/subjectRoom1TextView"
+        android:layout_alignRight="@+id/subjectRoom1TextView"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:text="Room2"
+        android:textColor="#800000"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/subjectRoom1TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="23dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
+        android:text="Room1"
+        android:textColor="#800000"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/deleteButton"
+        android:layout_width="32dp"
+        android:layout_height="22dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:background="#800000"
+        android:text="X"
+        android:textSize="9sp" />
+
+</RelativeLayout>

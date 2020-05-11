@@ -1,0 +1,340 @@
+<resources>
+    <string name="app_name">WILDMAPS</string>
+
+    <string name="mainBuilding">Main Building</string>
+    <string name="stBuilding">Science and Technology Building</string>
+    <string name="alliedBuilding">Allied Engineering Building</string>
+    <string name="engBuilding">Engineering Building</string>
+
+    <string-array name="mainBuilding">
+        <item>Ground Floor</item>
+        <item>Second Floor</item>
+        <item>Third Floor</item>
+        <item>Fourth Floor</item>
+    </string-array>
+
+    <string-array name="stBuilding">
+        <item>Ground Floor</item>
+        <item>Second Floor</item>
+        <item>Third Floor</item>
+        <item>Fourth Floor</item>
+    </string-array>
+
+    <string-array name="alliedBuilding">
+        <item>Ground Floor</item>
+        <item>Second Floor</item>
+    </string-array>
+
+    <string-array name="engBuilding">
+        <item>Ground Floor</item>
+        <item>Second Floor</item>
+        <item>Third Floor</item>
+        <item>Fourth Floor</item>
+    </string-array>
+
+
+    <string-array name="Rooms">
+        //--------------MAIN BUILDING----------------
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>205</item>
+        <item>206</item>
+        <item>207</item>
+        <item>208</item>
+        <item>209</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>213</item>
+        <item>214</item>
+        <item>215</item>
+        <item>216</item>
+        <item>217</item>
+        <item>218</item>
+        <item>219</item>
+        <item>220</item>
+        <item>221</item>
+        <item>222</item>
+        <item>223</item>
+        <item>224</item>
+        <item>225</item>
+        <item>226</item>
+        <item>227</item>
+        <item>228</item>
+        <item>229</item>
+        <item>230</item>
+        <item>231</item>
+
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>304</item>
+        <item>305</item>
+        <item>306</item>
+        <item>307</item>
+        <item>308</item>
+        <item>309</item>
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>314</item>
+        <item>315</item>
+        <item>316</item>
+        <item>317</item>
+        <item>318</item>
+        <item>319</item>
+        <item>320</item>
+        <item>321</item>
+        <item>322</item>
+        <item>323</item>
+        <item>324</item>
+        <item>325</item>
+        <item>326</item>
+        <item>327</item>
+        <item>328</item>
+        <item>329</item>
+        <item>330</item>
+        <item>331</item>
+
+        //------------ALLIED BUILDING-----------------
+        <item>136</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+
+        <item>237</item>
+        <item>238</item>
+        <item>239</item>
+        <item>240</item>
+        <item>241</item>
+        <item>242</item>
+        <item>243</item>
+        <item>244</item>
+        <item>245</item>
+        <item>246</item>
+        <item>247</item>
+        <item>248</item>
+
+        //------------ENGINEERING BUILDING---------------
+        <item>E301</item>
+        <item>E302</item>
+        <item>E303</item>
+        <item>E304</item>
+        <item>E305</item>
+        <item>E306</item>
+        <item>E307</item>
+        <item>E308</item>
+        <item>E309</item>
+        <item>E310</item>
+        <item>E311</item>
+
+        <item>E401</item>
+        <item>E402</item>
+        <item>E403</item>
+        <item>E404</item>
+        <item>E405</item>
+        <item>E406</item>
+        <item>E407</item>
+        <item>E408</item>
+
+        //-----------------SCIENCE AND TECHNOLOGY BUILDING-------------------
+        <item>ST101</item>
+        <item>ST102</item>
+        <item>ST103</item>
+        <item>ST104</item>
+        <item>ST105</item>
+        <item>ST106</item>
+        <item>ST107</item>
+        <item>ST108</item>
+
+        <item>ST201</item>
+        <item>ST202</item>
+        <item>ST203</item>
+        <item>ST204</item>
+        <item>ST205</item>
+        <item>ST206</item>
+        <item>ST207</item>
+        <item>ST208</item>
+        <item>ST209</item>
+        <item>ST210</item>
+
+        <item>ST301</item>
+        <item>ST302</item>
+        <item>ST303</item>
+        <item>ST304</item>
+        <item>ST305</item>
+        <item>ST306</item>
+        <item>ST307</item>
+        <item>ST308</item>
+        <item>ST309</item>
+        <item>ST310</item>
+    </string-array>
+
+    <string-array name="superAllied">
+        <item>136</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+
+        <item>237</item>
+        <item>238</item>
+        <item>239</item>
+        <item>240</item>
+        <item>241</item>
+        <item>242</item>
+        <item>243</item>
+        <item>244</item>
+        <item>245</item>
+        <item>246</item>
+        <item>247</item>
+        <item>248</item>
+    </string-array>
+
+    <string-array name="superST">
+        <item>ST101</item>
+        <item>ST102</item>
+        <item>ST103</item>
+        <item>ST104</item>
+        <item>ST105</item>
+        <item>ST106</item>
+        <item>ST107</item>
+        <item>ST108</item>
+
+        <item>ST201</item>
+        <item>ST202</item>
+        <item>ST203</item>
+        <item>ST204</item>
+        <item>ST205</item>
+        <item>ST206</item>
+        <item>ST207</item>
+        <item>ST208</item>
+        <item>ST209</item>
+        <item>ST210</item>
+
+        <item>ST301</item>
+        <item>ST302</item>
+        <item>ST303</item>
+        <item>ST304</item>
+        <item>ST305</item>
+        <item>ST306</item>
+        <item>ST307</item>
+        <item>ST308</item>
+        <item>ST309</item>
+        <item>ST310</item>
+    </string-array>
+
+    <string-array name="superMain">
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>205</item>
+        <item>206</item>
+        <item>207</item>
+        <item>208</item>
+        <item>209</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>213</item>
+        <item>214</item>
+        <item>215</item>
+        <item>216</item>
+        <item>217</item>
+        <item>218</item>
+        <item>219</item>
+        <item>220</item>
+        <item>221</item>
+        <item>222</item>
+        <item>223</item>
+        <item>224</item>
+        <item>225</item>
+        <item>226</item>
+        <item>227</item>
+        <item>228</item>
+        <item>229</item>
+        <item>230</item>
+        <item>231</item>
+
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>304</item>
+        <item>305</item>
+        <item>306</item>
+        <item>307</item>
+        <item>308</item>
+        <item>309</item>
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>314</item>
+        <item>315</item>
+        <item>316</item>
+        <item>317</item>
+        <item>318</item>
+        <item>319</item>
+        <item>320</item>
+        <item>321</item>
+        <item>322</item>
+        <item>323</item>
+        <item>324</item>
+        <item>325</item>
+        <item>326</item>
+        <item>327</item>
+        <item>328</item>
+        <item>329</item>
+        <item>330</item>
+        <item>331</item>
+    </string-array>
+
+    <string-array name="superEng">
+        <item>E301</item>
+        <item>E302</item>
+        <item>E303</item>
+        <item>E304</item>
+        <item>E305</item>
+        <item>E306</item>
+        <item>E307</item>
+        <item>E308</item>
+        <item>E309</item>
+        <item>E310</item>
+        <item>E311</item>
+
+        <item>E401</item>
+        <item>E402</item>
+        <item>E403</item>
+        <item>E404</item>
+        <item>E405</item>
+        <item>E406</item>
+        <item>E407</item>
+        <item>E408</item>
+    </string-array>
+
+    <string-array name="DaysInSchedule">
+        <item> </item>
+        <item>MWF</item>
+        <item>TTH</item>
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>TH</item>
+        <item>F</item>
+        <item>SAT</item>
+    </string-array>
+
+</resources>

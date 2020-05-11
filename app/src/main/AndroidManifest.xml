@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.searchmap">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconwildmap"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/iconwildmap"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".DetailActivityE_4"></activity>
+        <activity android:name=".DetailActivityE_3" />
+        <activity android:name=".DetailActivityA_2" />
+        <activity android:name=".DetailActivityA" />
+        <activity android:name=".DetailActivityST_3" />
+        <activity android:name=".DetailActivityST_2" />
+        <activity android:name=".DetailActivityST" />
+        <activity android:name=".DetailActivity_2" />
+        <activity android:name=".DetailActivity" />
+        <activity android:name=".SecondFActivity" />
+        <activity android:name=".BuildingsActivity" />
+        <activity android:name=".ClassSchedule" />
+        <activity android:name=".EditSubjectSchedule" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <receiver android:name=".AlarmReceiver" />
+    </application>
+
+</manifest>
